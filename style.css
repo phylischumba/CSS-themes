@@ -85,12 +85,12 @@ nav {
   text-align: center;
   padding: 1em;
   /* background: linear-gradient(90deg, hsla(150, 8%, 90%, 1) 0%, hsla(184, 71%, 18%, 1) 100%); */  
-  clip-path: polygon(50% 0%, 100% 0, 100% 65%, 50% 100%, 0 65%, 0 0);
+  /* clip-path: polygon(50% 0%, 100% 0, 100% 65%, 50% 100%, 0 65%, 0 0); */
 }
 
 img {
   width: 250px;
-  height: 150px;
+  height: 200px;
 }
 
 .main-section {
